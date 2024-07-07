@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs 
+Content-Type: application/json
+Authorization: Bearer Lz9Xq2Khjk645d00Jw9Mf4N89Pj8Sv5Rr
+
+{
+  "title": "Secret Garden",
+  "author": "Jessie james",
+  "url": "http://exmaple:3003/newblog",
+  "likes": 4
+}
